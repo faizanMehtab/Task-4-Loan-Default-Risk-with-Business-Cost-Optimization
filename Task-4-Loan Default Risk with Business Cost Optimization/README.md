@@ -3,7 +3,7 @@ Task 4: Loan Default Risk Prediction with Business Cost Optimization
 
 Financial institutions face significant risk when approving loans. Approving a loan for a customer who later defaults can cause heavy financial loss, while rejecting a safe customer may lead to missed business opportunities. Traditional accuracy-based models are often insufficient for such scenarios.
 
-This task focuses on building a loan default prediction system that not only predicts default risk but also optimizes decisions based on real business costs.
+This task focuses on building a loan default prediction system that not only predicts default risk but also optimizes decisions based on real business costs.The data set which is used as input is available as a zip file.
 
 # Objectives
 
@@ -95,5 +95,6 @@ scikit-learn
 matplotlib
 
 # Conclusion
+
 
 This task demonstrates how machine learning models can be aligned with business objectives. By optimizing classification thresholds based on cost, the model provides more practical and financially sound decisions than traditional accuracy-based approaches.
